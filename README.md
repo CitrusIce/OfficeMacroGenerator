@@ -1,3 +1,3 @@
 # OfficeMacroGenerator
 
-generate offce macro
+generate office macro
