@@ -1,5 +1,6 @@
 # OfficeMacroGenerator
 
+<<<<<<< HEAD
 using a executable file or shellcode to generate office macro
 
 reference:<https://citrusice.github.io/posts/malicious-macro>
@@ -17,3 +18,6 @@ optional arguments:
                         output filename, if this option not be specified, the
                         result will be print to stdout
 ```
+=======
+generate office macro
+>>>>>>> refs/remotes/origin/master
