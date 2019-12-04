@@ -18,6 +18,3 @@ optional arguments:
                         output filename, if this option not be specified, the
                         result will be print to stdout
 ```
-=======
-generate office macro
->>>>>>> refs/remotes/origin/master
