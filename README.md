@@ -1,6 +1,5 @@
 # OfficeMacroGenerator
 
-<<<<<<< HEAD
 using a executable file or shellcode to generate office macro
 
 reference:<https://citrusice.github.io/posts/malicious-macro>
